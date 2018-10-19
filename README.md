@@ -6,5 +6,5 @@ To run the code
 python3 solvealgo.py
 ```
 
-scramble -> k <br />
-solve -> l
+scramble -> K <br />
+solve -> L
